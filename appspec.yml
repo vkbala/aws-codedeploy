@@ -1,6 +1,5 @@
 version: 0.0
 os: windows
 files:
-  - source: \index.html
-    destination: c:\temp
-hooks:
+  - source: /
+    destination: /var/www/html
